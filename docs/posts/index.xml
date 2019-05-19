@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on FinanceClimber&#39;s New Hugo Site</title>
+    <link>http://financeclimber.github.io/hugoTest/posts/</link>
+    <description>Recent content in Posts on FinanceClimber&#39;s New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 16 May 2019 23:53:56 +0900</lastBuildDate>
+    
+	<atom:link href="http://financeclimber.github.io/hugoTest/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>001</title>
+      <link>http://financeclimber.github.io/hugoTest/posts/001/</link>
+      <pubDate>Thu, 16 May 2019 23:53:56 +0900</pubDate>
+      
+      <guid>http://financeclimber.github.io/hugoTest/posts/001/</guid>
+      <description>test テストだす</description>
+    </item>
+    
+  </channel>
+</rss>
